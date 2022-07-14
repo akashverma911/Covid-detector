@@ -1,4 +1,4 @@
-INTRODUCTION-
+**INTRODUCTION**-
 Our project DoctorAI is a web application where users upload the lungs Xrays and
 get the diagnosis of their lungs. DoctorAI is a full stack website where authenti-
 cated users can upload their lungs Xrays and get the diagnosis and result instantly.
@@ -34,10 +34,10 @@ We trained our model with training data having the mini-batch size of 4, and The
 epochs were 4. The initial learning rate was 0.0003 for minimum loss, though the
 training time was increased.
 
-We achieved an accuracy of 95.4%.
+We achieved an accuracy of **95.4%.**
 The accuracy is much better as compared to standard CNN model
 
-Developed the web application named DoctorAI with Flask
+**Developed the web application named DoctorAI with Flask**
 ![image](https://user-images.githubusercontent.com/58679695/179061955-924cffd0-bc55-4fc0-8296-88c0f1c6aff9.png)
 ![image](https://user-images.githubusercontent.com/58679695/179062008-60a2e64c-fe58-4440-96a7-1cfdbb091d4a.png)
 ![image](https://user-images.githubusercontent.com/58679695/179062025-dab7b755-8de4-4263-b808-bdc5c244998f.png)
