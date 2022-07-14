@@ -1,4 +1,4 @@
-INTRODUCTION
+INTRODUCTION-
 Our project DoctorAI is a web application where users upload the lungs Xrays and
 get the diagnosis of their lungs. DoctorAI is a full stack website where authenti-
 cated users can upload their lungs Xrays and get the diagnosis and result instantly.
